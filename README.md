@@ -2,7 +2,7 @@
 #### I am a Software Developer with keen interest in Open_Source
 ![I am a Software Developer with keen interest in Open_Source](https://drive.google.com/file/d/1tbfglfQ8_45LrRAs1fg5dccasVOGdDU5/view?usp=drive_link)
 
-I'm Amrit from India, my main interests is in software development, Artificial Intelligence, Machine Learning and Data Science
+I'm Amrit from India, my main interests is in Software development, Artificial Intelligence, Machine Learning and Data Science
 
 Skills: JAVA / PYTHON / ROS / REACT / JS / HTML / CSS / EMBEDDED C
 
