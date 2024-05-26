@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Amrit Raj
 #### I am a Software Developer with keen interest in Open_Source
-![I am a Software Developer with keen interest in Open_Source](https://drive.google.com/file/d/1tbfglfQ8_45LrRAs1fg5dccasVOGdDU5/view?usp=drive_link)
+![I am a Software Developer with keen interest in Open_Source](github-banner.png)
 
 I'm Amrit from India, my main interests is in Software development, Artificial Intelligence, Machine Learning and Data Science
 
