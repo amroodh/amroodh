@@ -6,7 +6,7 @@ I'm Amrit from India, my main interests is in Software development, Artificial I
 
 Skills: JAVA / PYTHON / ROS / REACT / JS / HTML / CSS / EMBEDDED C
 
-- 🔭 I’m currently working on Object Detection Algorithms 
+- 🔭 I’m currently working on Object Detection Algorithms and Chatbots Based of Generative AI
 - 🌱 I’m currently learning DSA for JAVA 
 - 💬 Ask me about Open_source and Projects 
 - 📫 How to reach me: raj.raunak0@gmail.com 
