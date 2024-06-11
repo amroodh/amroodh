@@ -2,7 +2,7 @@
 #### I am a Software Developer with keen interest in Open_Source
 ![](githu-banner.png)
 
-I'm Amrit from India, my main interests is in Software development, Artificial Intelligence, Machine Learning and Data Science
+I'm Amrit from India, my main interests are in Software development, Artificial Intelligence, Machine Learning and Data Science
 
 Skills: JAVA / PYTHON / ROS / REACT / JS / HTML / CSS / EMBEDDED C
 
