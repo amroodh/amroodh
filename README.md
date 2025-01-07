@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Amrit Raj
-#### I am a Rf/Antenna Engineer and Embedded Systems Engineer with keen interest in Open_Source
+#### I am a RF/Antenna Engineer and Embedded Systems Engineer with keen interest in Open_Source
 ![](githu-banner.png)
 
 I'm Amrit from India, my main interests are in Software development, Artificial Intelligence, Machine Learning and Data Science
