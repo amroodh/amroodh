@@ -6,8 +6,8 @@ I'm Amrit from India, my main interests are in Software development, Artificial 
 
 Skills: C++ / PYTHON / EMBEDDED C / HFSS / ADS
 
-- 🔭 I’m currently working on RF ekectronics and Antenna Design
-- 🌱 I’m currently learning DSA for C++
+- 🔭 I’m currently working on RF Systems and Antenna Design
+- 🌱 I’m currently learning RF Systems
 - 💬 Ask me about Open_source and Projects 
 - 📫 How to reach me: raj.raunak0@gmail.com 
 - 😄 Pronouns: He/Him 
