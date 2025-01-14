@@ -4,7 +4,7 @@
 
 I'm Amrit from India, my main interests are in Software development, Artificial Intelligence, Machine Learning and Data Science
 
-Skills: C++ / PYTHON / REACT / JS / HTML / CSS / EMBEDDED C
+Skills: C++ / PYTHON / EMBEDDED C / HFSS / ADS
 
 - 🔭 I’m currently working on RF ekectronics and Antenna Design
 - 🌱 I’m currently learning DSA for C++
