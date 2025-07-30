@@ -6,10 +6,10 @@ I'm Amrit from India, my main interests are in Software development, Artificial 
 
 Skills: C++ / PYTHON / EMBEDDED C / HFSS / ADS
 
-- 🔭 I’m currently working on RF Systems and Antenna Design
-- 🌱 I’m currently learning RF Systems
+- 🔭 I’m currently working @ Honeywell Aerospace as Software Engineer - 1
+- 🌱 I’m currently automating and increasing workflow efficiency in my team
 - 💬 Ask me about Open_source and Projects 
-- 📫 How to reach me: raj.raunak0@gmail.com 
-- 😄 Pronouns: He/Him 
+- 📫 How to reach me: amrit.raj8604@gmail.com
+  
 
 
