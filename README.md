@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Amrit Raj
-#### I am a RF/Antenna Engineer and Embedded Systems Engineer with keen interest in Open_Source
+#### I am a Software Engineer with keen interest in AI, Automation and Aerospace
 ![Amrit raj Github Banner](https://github.com/user-attachments/assets/78f4398a-e9f6-4a0f-8fb5-2e7f7b6689e5)
 
 I'm Amrit from India, my main interests are in Software development, Artificial Intelligence, Machine Learning and Data Science
